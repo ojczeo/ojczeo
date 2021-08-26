@@ -4,7 +4,7 @@
 
 ![ojczeo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ojczeo&show_icons=true)
 
-![ojczeo's wakatime stats]("https://wakatime.com/share/@4c86b21f-49be-4886-be1e-87347dbe293d/604f20d4-5689-4eff-bb96-7661303773bd.svg")
+![wakatime](https://wakatime.com/share/@4c86b21f-49be-4886-be1e-87347dbe293d/6311b752-c22a-4f56-b6b2-a684b7ea20b0.png)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojczeo&langs_count=10&show_icons=true)
 
