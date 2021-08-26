@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-[![ojczeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojczeo)](https://github.com/anuraghazra/github-readme-stats)
+[![ojczeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojczeo&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![ojczeo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ojczeo&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojczeo&langs_count=10&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ojczeo/ojczeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
