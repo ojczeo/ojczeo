@@ -2,7 +2,7 @@
 
 ![ojczeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ojczeo&show_icons=true&theme=city_lights)
 
-![ojczeo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ojczeo&show_icons=true&theme=city_lights)
+![ojczeo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=codelaborer@gmail.com&show_icons=true&theme=city_lights)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojczeo&langs_count=10&show_icons=true&theme=city_lights)
 
